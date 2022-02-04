@@ -1,0 +1,7 @@
+- Please keep the HospitalFile.txt in the same folder as the executable jar file
+- When running the program, firstly click on display hospitals button
+- Then you can either Add or remove a hospital, or add/remove partnership
+- After you can view the details of a hospital by clicking the insight button(to partners and potential partners)
+- Select a location and a medical condition to determine the closest hospital to you
+- View the map, and refresh for any changes
+- Display the hospital 

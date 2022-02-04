@@ -1,0 +1,290 @@
+Netcare Garden City Hospital # Nephrology # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Ophthalmology # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Radiation Oncology # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Urology # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Vascular Surgey # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Orthopaedic Surgery # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Plastic and Reconstructive Surgery # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Pulmonology # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Neurology # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Neurosurgery # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Nuclear Medicine # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # General Surgery # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Internal Medicine # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Maxillo-facial and oral surgery # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Ear, Nose and Throat # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Otorhinolaryngology # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # ENT # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Emergency Medicine # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Gastroenterology # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Cardiothoracic Surgery # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Critical Care # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Denstistry # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Cardiology # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Dermatology # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # General Practice # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Nephrology # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Ophthalmology # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Radiation Oncology # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Urology # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Vascular Surgey # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Orthopaedic Surgery # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Plastic and Reconstructive Surgery # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Pulmonology # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Neurology # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Neurosurgery # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Nuclear Medicine # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # General Surgery # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Internal Medicine # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Maxillo-facial and oral surgery # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Ear, Nose and Throat # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Otorhinolaryngology # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # ENT # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Emergency Medicine # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Gastroenterology # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Cardiothoracic Surgery # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Critical Care # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rand Hospital # Denstistry # -26.1852645 # 28.04996540000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Cardiology # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Dermatology # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # General Practice # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Nephrology # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Ophthalmology # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Radiation Oncology # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Urology # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Vascular Surgey # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Orthopaedic Surgery # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Plastic and Reconstructive Surgery # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Pulmonology # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Neurology # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Neurosurgery # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Nuclear Medicine # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # General Surgery # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Internal Medicine # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Maxillo-facial and oral surgery # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Ear, Nose and Throat # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Otorhinolaryngology # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # ENT # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Emergency Medicine # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Gastroenterology # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Cardiothoracic Surgery # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Critical Care # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Rosebank Hospital # Denstistry # -26.1463935 # 28.03897840000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Cardiology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Dermatology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # General Practice # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Nephrology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Ophthalmology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Radiation Oncology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Urology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Vascular Surgey # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Orthopaedic Surgery # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Plastic and Reconstructive Surgery # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Pulmonology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Neurology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Neurosurgery # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Nuclear Medicine # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # General Surgery # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Internal Medicine # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Maxillo-facial and oral surgery # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Ear, Nose and Throat # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Otorhinolaryngology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # ENT # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Emergency Medicine # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Gastroenterology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Cardiothoracic Surgery # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Critical Care # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Denstistry # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Cardiology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Dermatology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # General Practice # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Nephrology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Ophthalmology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Radiation Oncology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Urology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Vascular Surgey # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Plastic and Reconstructive Surgery # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Pulmonology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Neurology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Neurosurgery # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Nuclear Medicine # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # General Surgery # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Internal Medicine # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Internal Medicine # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Maxillo-facial and oral surgery # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Ear, Nose and Throat # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Otorhinolaryngology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # ENT # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Emergency Medicine # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Gastroenterology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Cardiothoracic Surgery # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Critical Care # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Denstistry # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Wits Donald Gordon Medical Centre # Anaesthesia # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Cardiology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Dermatology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Dialysis # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Endocrinology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Endoscopy # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Family Medicine # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # General Medicine # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Genetics # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Geriatrics # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Gynaecology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Mammography & Bone Density # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Gastroenterology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Oncology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Nephrology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Neurology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Nuclear Medicine # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Gastroenterology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Pain Clinic # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Pathology & Laboratory Services # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Psychiatry # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Radiation Oncology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Radiology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Rheumatology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Surgery # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Urology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Clinical Research Office # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Colorectal Unit # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Critical Care # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Pulmonology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Paediatric Oncology Unit # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Transplant Unit # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Audiology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Speech Therapy  # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Clinical Psychology # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Cochlear Implant Centre # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Dietetics # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Enterostomal Therapy # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Physiotherapy # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Wits Donald Gordon Medical Centre # Social Work # -26.17913 # 28.034380000000056 # 08.00 # 15.30 # 0113566000
+Charlotte Maxele Johannesburg Academic Hospital # Neonatology # -26.1748446 # 28.04563889999997 # 08.00 # 15.30 # 0114884911 
+Charlotte Maxele Johannesburg Academic Hospital # Paediatry # -26.1748446 # 28.04563889999997 # 08.00 # 15.30 # 0114884911 
+Chris Hani Baragwanath Academic Hospital # Neonatology # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Human Nutrition # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Occupational Therapy # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Physiotherapy # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Speech Therapy # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Audiology # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000 &  
+Chris Hani Baragwanath Academic Hospital # Anaesthesia # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Blood Bank # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Burn Units # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # ICU (Intensive Care Unit) # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Internal Medicine # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Cardiology # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Gastroenterology # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Psychiatry # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Renal # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Respiratory # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Obstetry # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Gynaecology # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Orthopaedic  # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Surgery # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Paediatry # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Pharmacy # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Radiology # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Chris Hani Baragwanath Academic Hospital # Radiography # -26.261231 # 27.94263950000004 # 08.00 # 15.30 # 0119338000
+Helen Joseph Hospital # Antiretroviral (ARV) # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Community Oriented Primary Health Care # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Family Planning # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # HIV Counselling and Testing (HCT) # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Hospitalisation # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Medical Male Circumcision (MMC) # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Mental Health # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Non-Communicable Diseases # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Opportunistic Infections # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Palliative # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # End of Life Care # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Post-Exposure Prophylaxis (PEP) # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Primary Health Care (PHC) # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Sexually Transmitted Infections (STI) Treatment # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Tuberculosis (TB) Treatment and DOTS # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Backache Treatment # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Blood Pressure # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Body Mass Index (BMI) # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Eye Test # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # On-Site Laboratory # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Sleep Disturbance Treatment # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Substance Abuse Treatment # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # TB Screening # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Sputum # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Viral Load Test # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # CD4 Cell Count Test # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+Helen Joseph Hospital # Diabetes # -26.1854191 # 27.989373500000056 # 08.00 # 15.30 # 0114891011
+South Rand Hospital # Audiology # -26.2528612 # 28.062548300000003 # 08.00 # 15.30 # 0116812000
+South Rand Hospital # Dentistry # -26.2528612 # 28.062548300000003 # 08.00 # 15.30 # 0116812000
+South Rand Hospital # Maternity # -26.2528612 # 28.062548300000003 # 08.00 # 15.30 # 0116812000
+South Rand Hospital # Speech Therapy # -26.2528612 # 28.062548300000003 # 08.00 # 15.30 # 0116812000
+Netcare Milpark Hospital # Cardiology # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Dermatology # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # General Practice # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Nephrology # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Ophthalmology # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Radiation Oncology # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Urology # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Vascular Surgey # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Orthopaedic # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Plastic and Reconstructive Surgery # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Pulmonology # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Neurology # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Neurosurgery # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Nuclear Medicine # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # General Surgery # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Internal Medicine # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Maxillo-facial and oral surgery # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Ear, Nose and Throat # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Otorhinolaryngology # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # ENT # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Emergency Medicine # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Gastroenterology # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Cardiothoracic Surgery # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Critical Care # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Milpark Hospital # Dentistry # -26.180001 # 28.017473399999970114805600 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Cardiology # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # Dermatology # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Garden City Hospital # General Practice # -26.1973358 # 28.00650680000001 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Nephrology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Ophthalmology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Radiation Oncology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Urology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Vascular Surgey # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Orthopaedic Surgery # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Plastic and Reconstructive Surgery # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Pulmonology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Neurology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Neurosurgery # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Nuclear Medicine # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # General Surgery # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Internal Medicine # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Maxillo-facial and oral surgery # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Ear, Nose and Throat # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Otorhinolaryngology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # ENT # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Emergency Medicine # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Gastroenterology # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Cardiothoracic Surgery # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Critical Care # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Olivedale Hospital # Denstistry # -26.0561096 # 27.97175470000002 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Cardiology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Dermatology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # General Practice # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Nephrology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Ophthalmology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Radiation Oncology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Urology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Vascular Surgey # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Plastic and Reconstructive Surgery # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Pulmonology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Neurology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Neurosurgery # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Nuclear Medicine # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # General Surgery # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Internal Medicine # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Internal Medicine # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Maxillo-facial and oral surgery # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Ear, Nose and Throat # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Otorhinolaryngology # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # ENT # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
+Netcare Mulbarton Hospital # Emergency Medicine # -26.2980199 # 28.053238999999962 # 08.00 # 15.30 # 0114805600
